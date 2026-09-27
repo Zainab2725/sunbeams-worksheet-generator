@@ -9,4 +9,4 @@ python-dotenv==1.0.1
 arabic-reshaper==3.0.0
 python-bidi==0.4.2
 chromadb==0.5.5
-sentence-transformers==3.0.1
+scikit-learn==1.5.1
