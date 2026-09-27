@@ -1,0 +1,56 @@
+{
+  "PA": {
+    "Endline": {
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Endline/P. A  Urdu .Endline syllabus .pdf",
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Endline/P. A. English endline syllabus .pdf",
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Endline/P. A. Math. Endline syllabus .pdf",
+      "Nazra": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Endline/PA nazra endline.pdf"
+    },
+    "Mid Term": {
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Mid Line/P. A. Maths . midterm syllabus 2026.pdf",
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Mid Line/P. A. Urdu. mid term syllabus .pdf",
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Mid Line/PA English midterm syllabas.pdf",
+      "Nazra": "/content/drive/MyDrive/data/dataset-sunbeams/PA/Mid Line/PA Nazra Midline syllabus.pdf"
+    }
+  },
+  "PB": {
+    "Endline": {
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Endline/. P. B English endline syllabus.pdf",
+      "Islamiyat": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Endline/. P. B Islamiyat endline syllabus.pdf",
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Endline/. P. B Maths endline syllabus.pdf",
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Endline/. P. B Urdu endline syllabus.pdf"
+    },
+    "Mid Term": {
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Mid line/P B. Urdu. midterm syllabus .pdf",
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Mid line/P. B. English. midterm syllabus .pdf",
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Mid line/P. B. Math midterm syllabus .pdf",
+      "Islamiyat": "/content/drive/MyDrive/data/dataset-sunbeams/PB/Mid line/P. B. islamiat midterm syllabus..pdf"
+    }
+  },
+  "PC": {
+    "First Term": {
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. English. first term syllabus .pdf",
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. Math. First term syllabus .pdf",
+      "Social Studies": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. S.st first term syllabus .pdf",
+      "Science": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. Science First term syllabus .pdf",
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. Urdu. first term syllabus .pdf",
+      "Islamiyat": "/content/drive/MyDrive/data/dataset-sunbeams/PC/First term/P. C. islamiat. First term syllabus .pdf"
+    },
+    "Second Term": {
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/P C. Math. 2nd term syllabus .pdf",
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/P. C  Urdu 2nd term syllabus .pdf",
+      "Islamiyat": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/P. C Islamiat 2nd term syllabus.pdf",
+      "Science": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/P. C. Science. second term syllabus .pdf",
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/PC English second termsyllabas.pdf",
+      "Social Studies": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Second Term/PC sst second term salybas.pdf"
+    },
+    "Third Term": {
+      "Islamiyat": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/P. C islamiat 3rd term syllabus .pdf",
+      "Math": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/P. C. Math 3rd term syllabus .pdf",
+      "Science": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/P. C. science 3rd term syllabus .pdf",
+      "English": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/PC English third term syllabas .pdf",
+      "Social Studies": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/PC social.studeis end term syllabas.pdf",
+      "Urdu": "/content/drive/MyDrive/data/dataset-sunbeams/PC/Third Term/p. c Urdu 3rd term syllabus .pdf"
+    }
+  }
+}
